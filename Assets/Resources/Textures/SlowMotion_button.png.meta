@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 9ec11aa32b039cb449025bc644adf8ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6336212581229880472
+    second: SlowMotion_button_0
+  - first:
+      213: 1935911062579279441
+    second: SlowMotion_button_1
+  - first:
+      213: -5248216007728147018
+    second: SlowMotion_button_2
+  - first:
+      213: 131566433401387030
+    second: SlowMotion_button_3
+  - first:
+      213: 6012480603129137991
+    second: SlowMotion_button_4
+  - first:
+      213: -5210603194590744074
+    second: SlowMotion_button_5
+  - first:
+      213: -3799173489217415991
+    second: SlowMotion_button_6
+  - first:
+      213: -2762568865260360565
+    second: SlowMotion_button_7
+  - first:
+      213: -781739812075216605
+    second: SlowMotion_button_8
+  - first:
+      213: 4150004699262220998
+    second: SlowMotion_button_9
+  - first:
+      213: 108771790211499319
+    second: SlowMotion_button_10
+  - first:
+      213: -6124150315403147119
+    second: SlowMotion_button_11
+  - first:
+      213: -8900783343702679273
+    second: SlowMotion_button_12
+  - first:
+      213: -898128605556981357
+    second: SlowMotion_button_13
+  - first:
+      213: 2620294960935791739
+    second: SlowMotion_button_14
+  - first:
+      213: 1426541002588242909
+    second: SlowMotion_button_15
+  - first:
+      213: -6011849182418173576
+    second: SlowMotion_button_16
+  - first:
+      213: -1276033757479468023
+    second: SlowMotion_button_17
+  - first:
+      213: -1015328420075222468
+    second: SlowMotion_button_18
+  - first:
+      213: 2566313076964392668
+    second: SlowMotion_button_19
+  - first:
+      213: 7910949251413591684
+    second: SlowMotion_button_20
+  - first:
+      213: -485898900802569293
+    second: SlowMotion_button_21
+  - first:
+      213: 3117135022538298632
+    second: SlowMotion_button_22
+  - first:
+      213: 4524270817932340152
+    second: SlowMotion_button_23
+  - first:
+      213: 8401403467320473603
+    second: SlowMotion_button_24
+  - first:
+      213: 5274271635319452042
+    second: SlowMotion_button_25
+  - first:
+      213: 1020963839726449635
+    second: SlowMotion_button_26
+  - first:
+      213: 5557021758848698258
+    second: SlowMotion_button_27
+  - first:
+      213: -113432197878884132
+    second: SlowMotion_button_28
+  - first:
+      213: -5865595966463252674
+    second: SlowMotion_button_29
+  - first:
+      213: -8218452566225121635
+    second: SlowMotion_button_30
+  - first:
+      213: 8751355888306546500
+    second: SlowMotion_button_31
+  - first:
+      213: 3441286937350807241
+    second: SlowMotion_button_32
+  - first:
+      213: 2165376960061000943
+    second: SlowMotion_button_33
+  - first:
+      213: 3340392734740401811
+    second: SlowMotion_button_34
+  - first:
+      213: -912356875972962511
+    second: SlowMotion_button_35
+  - first:
+      213: -1757761282709431556
+    second: SlowMotion_button_36
+  - first:
+      213: -4046648048007262331
+    second: SlowMotion_button_37
+  - first:
+      213: 5009913467645325053
+    second: SlowMotion_button_38
+  - first:
+      213: -7583438703982159722
+    second: SlowMotion_button_39
+  - first:
+      213: 1723470692897917256
+    second: SlowMotion_button_40
+  - first:
+      213: -7913606781392959799
+    second: SlowMotion_button_41
+  - first:
+      213: 4690569476377779742
+    second: SlowMotion_button_42
+  - first:
+      213: -5637236844892675720
+    second: SlowMotion_button_43
+  - first:
+      213: -1004730615238782372
+    second: SlowMotion_button_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SlowMotion_button_0
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2116
+        width: 580
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b9e626a304118a0800000000000000
+      internalID: -6336212581229880472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_1
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2059
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15679c1cadcbdda10800000000000000
+      internalID: 1935911062579279441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_2
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2060
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b558d2e8579a27b0800000000000000
+      internalID: -5248216007728147018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_3
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 2062
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618314f59fa63d100800000000000000
+      internalID: 131566433401387030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_4
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 2062
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b4078c04f907350800000000000000
+      internalID: 6012480603129137991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_5
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 2062
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f137e0600830b7b0800000000000000
+      internalID: -5210603194590744074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_6
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 2046
+        width: 67
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c45d1727df964bc0800000000000000
+      internalID: -3799173489217415991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2002
+        width: 120
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c2a96f04269a9d0800000000000000
+      internalID: -2762568865260360565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_8
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2038
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321e97268c3b625f0800000000000000
+      internalID: -781739812075216605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_9
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2040
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caf9bb4947c79930800000000000000
+      internalID: 4150004699262220998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2040
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735c32ded5f628100800000000000000
+      internalID: 108771790211499319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_11
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 2041
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1988c4b3cb5a20ba0800000000000000
+      internalID: -6124150315403147119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_12
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 2040
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71163ef05b01a7480800000000000000
+      internalID: -8900783343702679273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_13
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 2040
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391c82faac43983f0800000000000000
+      internalID: -898128605556981357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_14
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 2038
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ce25152682d5420800000000000000
+      internalID: 2620294960935791739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_15
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2038
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd34dc4db771cc310800000000000000
+      internalID: 1426541002588242909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_16
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2036
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8710ebe450f919ca0800000000000000
+      internalID: -6011849182418173576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2037
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904870cee0e9a4ee0800000000000000
+      internalID: -1276033757479468023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_18
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 2031
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ace0f6e24d8e1f0800000000000000
+      internalID: -1015328420075222468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_19
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 2024
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdef6e685206d9320800000000000000
+      internalID: 2566313076964392668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_20
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 2021
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48646ae1e6659cd60800000000000000
+      internalID: 7910949251413591684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_21
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 2006
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbf8ec268db149f0800000000000000
+      internalID: -485898900802569293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_22
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1987
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8051357a9c9424b20800000000000000
+      internalID: 3117135022538298632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_23
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 2008
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbe58a965079ce30800000000000000
+      internalID: 4524270817932340152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_24
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 1990
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3083f54e0f7c79470800000000000000
+      internalID: 8401403467320473603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_25
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 2000
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a817228ab1af13940800000000000000
+      internalID: 5274271635319452042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_26
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1990
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3f963f3313b2e00800000000000000
+      internalID: 1020963839726449635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_27
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 1986
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2970b49e8d18e1d40800000000000000
+      internalID: 5557021758848698258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_28
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 1980
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8565b54020d6ef0800000000000000
+      internalID: -113432197878884132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_29
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1907
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e376ef6bb87399ea0800000000000000
+      internalID: -5865595966463252674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_30
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1980
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e01ca2fe032fd80800000000000000
+      internalID: -8218452566225121635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_31
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 1968
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447e88150df037970800000000000000
+      internalID: 8751355888306546500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_32
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 1971
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce9cfe9c38e1cf20800000000000000
+      internalID: 3441286937350807241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_33
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1958
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec404d5fd6fc0e10800000000000000
+      internalID: 2165376960061000943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_34
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 1958
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e4f7c7e757b5e20800000000000000
+      internalID: 3340392734740401811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_35
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1914
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1371f335148a653f0800000000000000
+      internalID: -912356875972962511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_36
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1948
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa5b282d6d2b97e0800000000000000
+      internalID: -1757761282709431556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_37
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 1904
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fcf775a0b67d7c0800000000000000
+      internalID: -4046648048007262331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_38
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1860
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfee17251c9c68540800000000000000
+      internalID: 5009913467645325053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_39
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 1904
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698d1317da632c690800000000000000
+      internalID: -7583438703982159722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_40
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1873
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8490afeb67ffae710800000000000000
+      internalID: 1723470692897917256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_41
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 1874
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c643f67f883d2290800000000000000
+      internalID: -7913606781392959799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_42
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 1860
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e99c94610481140800000000000000
+      internalID: 4690569476377779742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1858
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871ad69f4f284c1b0800000000000000
+      internalID: -5637236844892675720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowMotion_button_44
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 1860
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c529bb724da7e02f0800000000000000
+      internalID: -1004730615238782372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

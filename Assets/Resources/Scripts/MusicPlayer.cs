@@ -22,20 +22,16 @@ namespace Assets.Resources.Scripts
             m_cannonBall.OnDeath += (death) => PlayDeathSound(death);
             m_cannonBall.OnWin += () => PlayWinSound();
             FindObjectOfType<Cannon>().OnShoot += () => PlayCannonShootSound();
-            m_cannonBall.OnExperienceAdded += (exp) => { PlayExperienceGainSound(); };
-            m_cannonBall.Wallet.OnMoneyAdded += (mon) => { PlayMoneyGainSound(); };
+            m_cannonBall.OnExperienceAdded += (exp) => m_audioSource.PlayOneShot(m_experienceGainSound);
+            m_cannonBall.Wallet.OnMoneyAdded += (mon) => m_audioSource.PlayOneShot(m_moneyGainSound);
             m_playMusicCoroutine = StartCoroutine(PlayMusic(m_shopMusicClips));
         }
 
-        public void PlaySuccessBuySound()
-        {
-            m_audioSource.PlayOneShot(m_successBuySound);
-        }
+        public void PlaySuccessBuySound() => m_audioSource.PlayOneShot(m_successBuySound);
 
         public void PlayDeathSound(DeathType deathType)
         {
-            m_audioSource.Stop();
-            StopCoroutine(m_playMusicCoroutine);
+            StopPlayingMusic();
             switch (deathType)
             {
                 case DeathType.DeathFromBomb:
@@ -47,34 +43,26 @@ namespace Assets.Resources.Scripts
             }
         }
 
-        public void PlayFailedToBuySound()
-        {
-            m_audioSource.PlayOneShot(m_failedToBuySound);
-        }
-
         public void PlayWinSound()
         {
-            m_audioSource.Stop();
-            StopCoroutine(m_playMusicCoroutine);
+            StopPlayingMusic();
             m_audioSource.PlayOneShot(m_winSound);
         }
 
         public void PlayCannonShootSound()
         {
             m_audioSource.PlayOneShot(m_cannonShootSound);
-            if (m_playMusicCoroutine != null)
-                StopCoroutine(m_playMusicCoroutine);
+            StopPlayingMusic(); 
             m_playMusicCoroutine = StartCoroutine(PlayMusic(m_NonShopMusicClips));
         }
 
-        public void PlayExperienceGainSound()
-        {
-            m_audioSource.PlayOneShot(m_experienceGainSound);
-        }
+        public void PlayMoneyGainSound() => m_audioSource.PlayOneShot(m_moneyGainSound);
 
-        public void PlayMoneyGainSound()
+        public void StopPlayingMusic() 
         {
-            m_audioSource.PlayOneShot(m_moneyGainSound);
+            m_audioSource.Stop();
+            if(m_playMusicCoroutine != null)
+            StopCoroutine(m_playMusicCoroutine);
         }
 
         private IEnumerator PlayMusic(List<AudioClip> clips)
